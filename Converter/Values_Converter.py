@@ -41,6 +41,8 @@ while True:
                 output_string = f'{input_values} grams = {output} kilograms'
 
         window.Element("-OUT-").Update(output_string)
+
+        #Test commita, czy sie skapnie ze coś jest nowego
     
 
 window.close()
